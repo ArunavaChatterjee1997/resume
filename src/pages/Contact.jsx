@@ -44,7 +44,7 @@ function Contact() {
         url: window.location.href,
         device_description: Platform.description,
       };
-      await ajax("POST", "https://formspree.io/f/xknerrjv", data);
+      await ajax("POST", "https://formspree.io/f/mjvdojjd", data);
       form.reset();
     });
   };
